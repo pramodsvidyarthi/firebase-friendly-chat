@@ -1,0 +1,28 @@
+[debug] [2017-11-27T09:25:42.012Z] ----------------------------------------------------------------------
+[debug] [2017-11-27T09:25:42.016Z] Command:       C:\Program Files (x86)\node.exe C:\Users\pramod\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-11-27T09:25:42.016Z] CLI Version:   3.15.3
+[debug] [2017-11-27T09:25:42.016Z] Platform:      win32
+[debug] [2017-11-27T09:25:42.016Z] Node Version:  v6.10.2
+[debug] [2017-11-27T09:25:42.017Z] Time:          Mon Nov 27 2017 14:55:42 GMT+0530 (India Standard Time)
+[debug] [2017-11-27T09:25:42.017Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-27T09:25:42.036Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-27T09:25:42.036Z] > authorizing via signed-in user
+[debug] [2017-11-27T09:25:42.039Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendly-chat-71a81  
+ Mon Nov 27 2017 14:55:42 GMT+0530 (India Standard Time)
+[debug] [2017-11-27T09:25:43.355Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-27T09:25:43.357Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendly-chat-71a81/tokens  
+ Mon Nov 27 2017 14:55:43 GMT+0530 (India Standard Time)
+[debug] [2017-11-27T09:25:44.301Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'D:\Pramod\projects\friendlychat-web\web-start'...
+[info] 
+[debug] [2017-11-27T09:25:44.304Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendly-chat-71a81  
+ Mon Nov 27 2017 14:55:44 GMT+0530 (India Standard Time)
+[debug] [2017-11-27T09:25:45.741Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-27T09:25:45.741Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/700259729945/clients/_:getWebAppConfig  
+ Mon Nov 27 2017 14:55:45 GMT+0530 (India Standard Time)
+[debug] [2017-11-27T09:25:46.490Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
